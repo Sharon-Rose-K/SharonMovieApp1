@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SharonMovieApp</string>
+    <string name="ActionSettings">Settings</string>
+    <string name="NameMovie">Movie Title</string>
+    <string name="MovieDetails">Movie Details</string>
+    <string name="Summary">Plot Summary</string>
+    <string name="Rating">User Rating</string>
+    <string name="Release">Release Date</string>
+    <string name="PrefSortLabel">Sort Order</string>
+    <string name="PrefSortKey">SortOrder</string>
+    <string name="PrefMostPop">Most Popular</string>
+    <string name="PrefHighRate">Highest Rated</string>
+
+</resources>
